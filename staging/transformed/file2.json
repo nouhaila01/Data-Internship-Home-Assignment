@@ -1,0 +1,36 @@
+{
+    "job": {
+      "title": "Data Scientist",
+      "industry": "Data Science",
+      "description": "Exciting data science opportunity.",
+      "employment_type": "Part-Time",
+      "date_posted": "2022-01-08"
+    },
+    "company": {
+      "name": "Data Innovations",
+      "link": "https://www.datainnovations.com"
+    },
+    "education": {
+      "required_credential": "Master's Degree in Data Science"
+    },
+    "experience": {
+      "months_of_experience": 24,
+      "seniority_level": "Entry-Level"
+    },
+    "salary": {
+      "currency": "EUR",
+      "min_value": 60000,
+      "max_value": 80000,
+      "unit": "Year"
+    },
+    "location": {
+      "country": "Germany",
+      "locality": "Berlin",
+      "region": "BE",
+      "postal_code": "10115",
+      "street_address": "456 Data Street",
+      "latitude": 52.5200,
+      "longitude": 13.4050
+    }
+  }
+  
