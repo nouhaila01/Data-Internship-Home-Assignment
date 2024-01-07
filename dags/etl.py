@@ -90,7 +90,7 @@ def transform():
         with open(os.path.join(extracted_dir, filename), 'r') as file:
             extracted_data = json.load(file)
 
-        # Your cleaning and transformation logic goes here
+        # Your cleaning and transformation logic 
         transformed_data = {
             "job": {
                 "title": extracted_data.get('title', ''),
